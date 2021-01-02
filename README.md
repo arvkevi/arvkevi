@@ -6,8 +6,6 @@ Since you're here, let me know you stopped by. Share your Python or data science
 **Favorite project** :dna:  
 I wrote a [dashboard app](https://github.com/arvkevi/ezancestry) that predicts users' genetic ancestry from their 23andMe data.
 
-**Real Python** :snake:  
-[My Real Python articles](https://realpython.com/team/karvai/).
-
-**Towards Data Science** :notebook:  
-[My blog posts](https://medium.com/@arvkevi)  about open-source software, machine learning, and genomics.
+**Non-GitHub stuff**
+I like open-source software/data, machine learning, and genomics.  
+My [Real Python articles](https://realpython.com/team/karvai/), [blog posts](https://medium.com/@arvkevi), and [Kaggle profile](https://www.kaggle.com/kevinarvai).
