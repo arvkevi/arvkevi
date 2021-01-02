@@ -10,4 +10,4 @@ I wrote a [dashboard app](https://github.com/arvkevi/ezancestry) that predicts u
 [My Real Python articles](https://realpython.com/team/karvai/).
 
 ***Towards Data Science*** :notebook:  
-[My blog posts](https://medium.com/@arvkevi)  about open source software, machine learning, and genomics.
+[My blog posts](https://medium.com/@arvkevi)  about open-source software, machine learning, and genomics.
