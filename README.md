@@ -1,4 +1,4 @@
-Hello, :wave: my name is Kevin Arvai. I'm a data scientist with 10+ years of experience in the genomics field.
+**Hello, :wave: my name is Kevin Arvai. I'm a data scientist with 10+ years of experience in the genomics field.**
 
 **Connect** :handshake:  
 Since you're here, let me know you stopped by. Share your Python or data science story with me on [Twitter](https://twitter.com/arvkevi) or [LinkedIn](https://www.linkedin.com/in/kevinarvai/). I love hearing about what people are working on in the open-source community!
