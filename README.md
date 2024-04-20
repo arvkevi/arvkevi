@@ -4,7 +4,7 @@
 Since you're here, let me know you stopped by. Share your Python or data science story with me on [Twitter](https://twitter.com/arvkevi) or [LinkedIn](https://www.linkedin.com/in/kevinarvai/). I love hearing about what people are working on in the open-source community!
 
 **Favorite project** :dna:  
-I wrote an [app](https://github.com/arvkevi/ezancestry) that predicts users' genetic ancestry from their 23andMe data.
+I wrote an [app](https://github.com/arvkevi/ezancestry) that predicts users' ancestry from their genetic data.
 
 **Non-GitHub stuff** :computer:  
 I like machine learning, open-source software/data, and genomics.  
